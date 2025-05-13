@@ -23,5 +23,9 @@ tip-calculator/
 ├── style.css
 └── script.js
 
+Author
+Created by Sheila Demonteverde  
+Junior Software Engineering Student at Penn State World Campus
+
 License
 This project is open source under the MIT License.
